@@ -1,0 +1,21 @@
+
+Y
+)src/function/WaysOfDefiningFunction.scala,d\0\d0d0163b889518bd87d83d4765e28f97926d1004
+G
+src/loops/ForLoop.scala,6\d\6ddbf33181e2826a497c175caf120b394682b31a
+R
+"src/function/FunctionLiteral.scala,3\0\3057e822c26558749bafb1b3d1d4f6e3cb0ed0de
+S
+#src/variables/IfElseCondition.scala,b\0\b0889bf77406c45c1628f110fc4fc2b8931467a8
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+U
+%src/function/IfElseWithFunction.scala,d\5\d527d22f34c8bbbd199171e186420ec4ba5ae1d5
+U
+%src/variables/DefiningVariables.scala,a\0\a0fc0826df28b4903aa62cc5cb12177dc24794e6
+@
+src/Basics.scala,b\0\b0dea8279be33b8e0e05411b511a2340b66bc321
+I
+src/loops/WhileLoop.scala,2\2\229d41979dda9e334d097e2b1bfb6f16be120dd7
+S
+#src/function/FunctionExercise.scala,2\5\2550f7b0dac9704cbfd43d19aa9b8dc14881e415
