@@ -19,3 +19,11 @@ I
 src/loops/WhileLoop.scala,2\2\229d41979dda9e334d097e2b1bfb6f16be120dd7
 S
 #src/function/FunctionExercise.scala,2\5\2550f7b0dac9704cbfd43d19aa9b8dc14881e415
+W
+'src/Exercises/_1_Reverse_A_String.scala,b\e\be454ea89e901e74939f09463e61f47a98af22a7
+O
+src/Exercises/_HelloWorld.scala,a\7\a748221adf6d5a2319b3282c1062e6b359eeb6c0
+T
+$src/Exercises/_1_FunctionPrint.scala,d\1\d11bf1341651b3aa2d2f0385173bde07a0bc7195
+V
+&src/ArraysInScala/BasicsOfArrays.scala,8\4\845e074f0d95cf05d29174ffc9a1b4c323a1ae0d
