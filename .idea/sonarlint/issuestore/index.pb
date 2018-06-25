@@ -27,3 +27,7 @@ T
 $src/Exercises/_1_FunctionPrint.scala,d\1\d11bf1341651b3aa2d2f0385173bde07a0bc7195
 V
 &src/ArraysInScala/BasicsOfArrays.scala,8\4\845e074f0d95cf05d29174ffc9a1b4c323a1ae0d
+W
+'src/Operators/OperatorsMethodCall.scala,4\7\4796f4369ec6b133f12a5b95daa95be7fda56a9c
+W
+'src/ChallengeQuestions/IsLeapYear.scala,7\4\74fb7060c83df065cdfcf02f95be42d6ecbdb7fe
